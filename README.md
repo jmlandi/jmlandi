@@ -1,4 +1,4 @@
 - 👋 Hi, I’m João Marcos Landi, but you can call me Marcos. (@jmlandi)
-- 👀 I’m interested in discover every possibility that i can get with programing.
-- 🌱 I’m currently learning JavaScript (ECMAscript 2018) and Python.
+- 👀 I’m interested in discover every possibility that I can get with a code.
+- 🌱 I’m currently programing in HTML, CSS, JavaScript (ECMAscript 2018), React.JS, Python and Flask.
 - 📫 You can reach me on LinkedIn (linkedin.com/in/joaomarcoslandi/)
