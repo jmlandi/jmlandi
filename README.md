@@ -1,4 +1,3 @@
-- 👋 Hi, I’m João Marcos Landi, but you can call me Marcos. (@jmlandi)
-- 👀 I’m interested in discover every possibility that I can get with a code.
+- 👋 Hi, I’m João Marcos Landi, but you can call me Marcos. I'm a front-end developer and also a graphic designer. (@jmlandi)
 - 🌱 I’m currently programing in HTML, CSS, JavaScript (ECMAscript 2018), React.JS, Python and Flask.
-- 📫 You can reach me on LinkedIn (linkedin.com/in/joaomarcoslandi/)
+- 📫 You can reach me on LinkedIn. (linkedin.com/in/joaomarcoslandi/)
