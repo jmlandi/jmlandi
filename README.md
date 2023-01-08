@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  👋 My name is João Marcos Landi, but you can call me Marcos. I'm a <strong>front-end developer</strong> and also an <strong>adman</strong>.
+  👋 My name is João Marcos Landi, but you can call me just Marcos. I'm a <strong>front-end developer</strong> and also an <strong>adman</strong>.
   <br>🌱 I’m currently programing in HTML, CSS, JavaScript (ECMAscript 2018), React.JS, Python and Flask.
   <br>📫 You can reach me using this link --> https://linktr.ee/jmlandi
 <hr>
