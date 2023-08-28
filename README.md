@@ -12,9 +12,9 @@
 <div align="center">
     <h2>Sumary</h2>
   <a href="https://linktr.ee/jmlandi" target="_blank">
-    <img width="520px" src="https://github-readme-stats.vercel.app/api?username=jmlandi&theme=transparent">
+    <img width="520px" src="https://github-readme-stats.vercel.app/api?username=jmlandi&theme=transparent&border-radius:30px">
   <a href="https://linktr.ee/jmlandi" target="_blank">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlandi&theme=transparent">
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlandi&theme=transparent&border-radius:30px">
 </div>
     
 <div align="center"><br>
