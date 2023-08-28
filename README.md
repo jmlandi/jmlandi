@@ -10,7 +10,6 @@
 </div>
 
 <div align="center">
-    <h2>Sumary</h2>
   <a href="https://linktr.ee/jmlandi" target="_blank">
     <img width="520px" src="https://github-readme-stats.vercel.app/api?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
   <a href="https://linktr.ee/jmlandi" target="_blank">
