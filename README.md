@@ -11,9 +11,9 @@
 
 <div align="center">
     <h2>Sumary</h2>
-  <a href="https://linktr.ee/jmlandi">
+  <a href="https://linktr.ee/jmlandi" target="_blank">
     <img width="520px" src="https://github-readme-stats.vercel.app/api?username=jmlandi&count_private=true&theme=merko&hide_border=true&border_radius=25">
-  <a href="https://linktr.ee/jmlandi">
+  <a href="https://linktr.ee/jmlandi" target="_blank">
     <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlandi&theme=merko&hide_border=true&border_radius=25">
 </div>
     
@@ -30,10 +30,10 @@
 
 <div align="center">
   <h2>Contact Me</h2>
-  <a href="mailto:joaomarcospsnbr@gmail.com">
+  <a href="mailto:joaomarcospsnbr@gmail.com" target="_blank">
      <img height="20px" alt="logo-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="http://wa.me/5516992772621">
+  <a href="http://wa.me/5516992772621" target="_blank">
     <img height="20px" alt="logo-whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  <a href ="https://www.linkedin.com/in/joaomarcoslandi">
+  <a href ="https://www.linkedin.com/in/joaomarcoslandi" target="_blank">
      <img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </div>
