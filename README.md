@@ -14,7 +14,7 @@
   <a href="https://linktr.ee/jmlandi" target="_blank">
     <img width="520px" src="https://github-readme-stats.vercel.app/api?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
   <a href="https://linktr.ee/jmlandi" target="_blank">
-    <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
+    <img width="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
 </div>
     
 <div align="center"><br>
