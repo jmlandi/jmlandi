@@ -17,6 +17,7 @@
 </div> -->
     
 <div align="center"><br>
+  <h3>My Stack</h3>
   <img width="30px" alt="logo-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img width="30px" alt="logo-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img width="30px" alt="logo-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
