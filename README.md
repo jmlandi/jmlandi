@@ -17,7 +17,7 @@
 </div> -->
     
 <div align="center">
-  <h3>Technologies that I work with:</h3>
+  <h3>Technologies that I know:</h3>
   <img width="40px" alt="logo-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img width="40px" alt="logo-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img width="40px" alt="logo-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
