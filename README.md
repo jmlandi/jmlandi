@@ -20,7 +20,9 @@
   <img width="30px" alt="logo-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img width="30px" alt="logo-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img width="30px" alt="logo-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img width="30px" alt="logo-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <!-- <img width="30px" alt="logo-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
+  <img width="30px" alt="logo-ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+  <img width="30px" alt="logo-on-rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
   <img width="30px" alt="logo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img width="30px" alt="logo-flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
