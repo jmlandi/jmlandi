@@ -9,12 +9,12 @@
 <hr>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://linktr.ee/jmlandi" target="_blank">
     <img width="520px" src="https://github-readme-stats.vercel.app/api?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
   <a href="https://linktr.ee/jmlandi" target="_blank">
     <img width="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
-</div> -->
+</div>
     
 <div align="center">
   <h3>Technologies that I know:</h3>
