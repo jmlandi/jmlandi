@@ -4,7 +4,7 @@
 
 <div align="center">
   👋 My name is João Marcos Landi, but you can call me just Marcos. I'm a <strong>technology student</strong> at FATEC.
-  <br>🌱 I’m currently programing in HTML, CSS, JavaScript (ECMAscript 2018), React.JS, Python and Flask.
+  <br>🌱 I’m currently programing in HTML, CSS, JavaScript (ECMAscript 2018), Ruby On Rails, Python and Flask.
   <br>📫 You can reach me using this link --> https://linktr.ee/jmlandi
 <hr>
 </div>
