@@ -4,7 +4,7 @@
 
 <div align="center">
   👋 My name is João Marcos Landi, but you can call me just Landi. I'm a <strong>technology student</strong> at FATEC.
-  <br>🌱 I’m currently programing in HTML, CSS, JavaScript (ECMAscript 2018), Ruby On Rails, Python and Flask.
+  <br>🌱 I’m currently programing in HTML, CSS, JavaScript (ECMAscript 2018), Python and Flask.
   <br>📫 You can reach me using this link --> https://linktr.ee/jmlandi
 <hr>
 </div>
@@ -22,8 +22,8 @@
   <img width="40px" alt="logo-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img width="40px" alt="logo-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <!-- <img width="30px" alt="logo-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
-  <img width="40px" alt="logo-ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img width="40px" alt="logo-on-rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
+  <!-- <img width="40px" alt="logo-ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+  <img width="40px" alt="logo-on-rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"> -->
   <img width="40px" alt="logo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img width="40px" alt="logo-flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img width="40px" alt="logo-postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
