@@ -5,7 +5,7 @@
 <div align="center">
   👋 Call me Landi! I'm a <strong>Martech Data Analyst at CloudWalk Inc. and technology student</strong>
   <br>🌱 I’m currently programing in HTML, CSS, JavaScript (ECMAscript 2018) and Python
-  <br>📫 You can reach me using this link --> https://linktr.ee/jmlandi
+  <br>📫 You can reach me using this link: https://linktr.ee/jmlandi
 <hr>
 </div>
 
