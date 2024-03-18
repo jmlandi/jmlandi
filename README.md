@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-  <h3>Data Engineering Knowledge:</h3>
+  <h3>Game Development Knowledge:</h3>
   <img width="40px" alt="logo-c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img width="40px" alt="logo-unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
 </div>
