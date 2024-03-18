@@ -29,6 +29,7 @@
 
 <div align="center">
   <h3>Back-End Knowledge:</h3>
+  <img width="40px" alt="logo-node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img width="40px" alt="logo-node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
   <img width="40px" alt="logo-ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img width="40px" alt="logo-on-rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
