@@ -4,7 +4,7 @@
 
 <div align="center">
 👋 Call me Landi! I'm a <strong>Martech Data Analyst at CloudWalk Inc. and a technology student at <a href="https://site.fatecfranca.edu.br"/>FATEC</a></strong><br>
-<br>🌱 As a Full Stack Developer, I bring a unique blend of skills that encompass both technical expertise and creative insight. With a solid foundation in marketing analysis and graphic design, I possess a comprehensive understanding of the digital landscape. This multidisciplinary background enables me to approach web development with a holistic perspective, ensuring that the solutions I craft are not only technically sound but also <strong>visually appealing and market-driven.</strong>strong><br>
+<br>🌱 As a Full Stack Developer, I bring a unique blend of skills that encompass both technical expertise and creative insight. With a solid foundation in marketing analysis and graphic design, I possess a comprehensive understanding of the digital landscape. This multidisciplinary background enables me to approach web development with a holistic perspective, ensuring that the solutions I craft are not only technically sound but also <strong>visually appealing and market-driven.</strong><br>
 <br>📫 You can reach me using this link: https://linktr.ee/jmlandi
 <hr>
 </div>
