@@ -10,13 +10,6 @@
 </div>
 
 <div align="center">
-  <a href="https://linktr.ee/jmlandi" target="_blank">
-    <img width="520px" src="https://github-readme-stats.vercel.app/api?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
-  <a href="https://linktr.ee/jmlandi" target="_blank">
-    <img width="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
-</div>
-    
-<div align="center">
   <h3>Front-End Knowledge:</h3>
   <img width="40px" alt="logo-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img width="40px" alt="logo-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -51,6 +44,13 @@
   <h3>Game Development Knowledge:</h3>
   <img width="40px" alt="logo-c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img width="40px" alt="logo-unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+</div>
+
+<div align="center">
+  <a href="https://linktr.ee/jmlandi" target="_blank">
+    <img width="520px" src="https://github-readme-stats.vercel.app/api?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
+  <a href="https://linktr.ee/jmlandi" target="_blank">
+    <img width="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
 </div>
  
 <hr>
