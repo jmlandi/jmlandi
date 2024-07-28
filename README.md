@@ -46,7 +46,6 @@
   <img width="40px" alt="logo-c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img width="40px" alt="logo-unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
 </div>
--->
 
 <div align="center">
   <a href="https://linktr.ee/jmlandi" target="_blank">
@@ -54,6 +53,7 @@
   <a href="https://linktr.ee/jmlandi" target="_blank">
     <img width="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
 </div>
+-->
  
 <hr>
 
