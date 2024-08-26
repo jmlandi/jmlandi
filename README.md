@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
   <h1><strong>Welcome to my profile!</strong> (@jmlandi)</h1>
 </div>
 
-<div align="center">
+<div align="left">
 👋 Call me Landi! I'm a <strong>Martech Data Analyst at CloudWalk Inc. and a technology student at <a href="https://site.fatecfranca.edu.br"/>FATEC</a></strong><br>
-<br>🌱 As a Full Stack Developer, I bring a unique blend of skills that encompass both technical expertise and creative insight. With a solid foundation in marketing analysis and graphic design, I possess a comprehensive understanding of the digital landscape. This multidisciplinary background enables me to approach web development with a holistic perspective, ensuring that the solutions I craft are not only technically sound but also <strong>visually appealing and market-driven.</strong><br>
+<br>🌱 As a Full Stack Developer, I bring a unique blend of skills that encompass both technical expertise and creative insight. With a solid foundation in marketing analysis and graphic design, I possess a comprehensive understanding of the digital landscape. This multidisciplinary background enables me to approach development with a holistic perspective, ensuring that the solutions I craft are not only technically sound but also <strong>visually appealing, bussiness centered and market-driven.</strong><br>
 <hr>
 </div>
 
@@ -54,7 +54,7 @@
 </div>
 -->
 
-<div align="center">
+<div align="left">
   <h2>Contact Me</h2>
   <a href="mailto:joaomarcospsnbr@gmail.com" target="_blank">
      <img height="20px" alt="logo-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
