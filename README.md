@@ -13,7 +13,7 @@
 | Back‑End | Front‑End | Data & Cloud | DevOps |
 |----------|-----------|--------------|--------|
 | Java / Spring Boot · Node.js | React · Next.js · TypeScript | SQL · PostgreSQL · BigQuery · GA4 | Git · Docker · Kubernetes · CI/CD |
-| Python / Flask | Tailwind CSS · HTML 5 | GCP · AWS · Cloudflare | GitHub Actions · Argo CD |
+| Python / Flask | TailwindCSS · CSS · HTML 5 | GCP · AWS · Cloudflare | GitHub Actions · Argo CD |
 
 ---
 
