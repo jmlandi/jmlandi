@@ -1,65 +1,32 @@
-<div align="left">
-  <h1><strong>Welcome to my profile!</strong> (@jmlandi)</h1>
-</div>
+<!-- Profile README for github.com/joaomarcoslandi -->
 
-<div align="left">
-👋 Call me Landi! I'm a <strong>Martech Owner at CloudWalk Inc. and a technology student at <a href="https://site.fatecfranca.edu.br"/>FATEC</a></strong><br>
-<br>🌱 As a Full Stack Developer, I bring a unique blend of skills that encompass both technical expertise and creative insight. With a solid foundation in marketing analysis and graphic design, I possess a comprehensive understanding of the digital landscape. This multidisciplinary background enables me to approach development with a holistic perspective, ensuring that the solutions I craft are not only technically sound but also <strong>visually appealing, bussiness centered and market-driven.</strong><br>
-<hr>
-</div>
+<h1>Hi, I’m Marcos Landi 👋</h1>
 
-<!--
-<div align="center">
-  <h3>Front-End Knowledge:</h3>
-  <img width="40px" alt="logo-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img width="40px" alt="logo-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img width="40px" alt="logo-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img width="40px" alt="logo-vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg">
-  <img width="40px" alt="logo-figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img width="40px" alt="logo-photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img width="40px" alt="logo-illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
-</div>
+<p>
+  <em>Full‑Stack & Data Engineer • Where Code meets Growth • Proudly based in Franca – BR</em>
+</p>
 
-<div align="center">
-  <h3>Back-End Knowledge:</h3>
-  <img width="40px" alt="logo-node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img width="40px" alt="logo-node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-  <img width="40px" alt="logo-ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img width="40px" alt="logo-on-rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
-  <img width="40px" alt="logo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img width="40px" alt="logo-flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
-</div>
+---
 
-<div align="center">
-  <h3>Data Engineering Knowledge:</h3>
-  <img width="40px" alt="logo-pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
-  <img width="40px" alt="logo-sqalc" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
-  <img width="40px" alt="logo-sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
-  <img width="40px" alt="logo-postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img width="40px" alt="logo-mySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img width="40px" alt="logo-GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
-</div>
+## 💻 Tech Stack
 
-<div align="center">
-  <h3>Game Development Knowledge:</h3>
-  <img width="40px" alt="logo-c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img width="40px" alt="logo-unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-</div>
+| Back‑End | Front‑End | Data & Cloud | DevOps |
+|----------|-----------|--------------|--------|
+| Java / Spring Boot · Node.js | React · Next.js · TypeScript | SQL · PostgreSQL · BigQuery · GA4 | Git · Docker · Kubernetes · CI/CD |
+| Python / Flask | Tailwind CSS · HTML 5 | GCP · AWS · Cloudflare | GitHub Actions · Argo CD |
 
-<div align="center">
-  <a href="https://linktr.ee/jmlandi" target="_blank">
-    <img width="520px" src="https://github-readme-stats.vercel.app/api?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
-  <a href="https://linktr.ee/jmlandi" target="_blank">
-    <img width="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlandi&theme=transparent&border_radius=30&hide_border=True">
-</div>
--->
+---
 
-<div align="left">
-  <h2>Contact Me</h2>
-  <a href="mailto:joaomarcospsnbr@gmail.com" target="_blank">
-     <img height="20px" alt="logo-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="http://wa.me/5516992772621" target="_blank">
-    <img height="20px" alt="logo-whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  <a href ="https://www.linkedin.com/in/joaomarcoslandi" target="_blank">
-     <img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </div>
+## 🔗 Where to find me
+
+| Platform | Link |
+|----------|------|
+| 🌐 **Website / Portfolio** | <https://marcoslandi.com> |
+| 🖥️ **LinkedIn** | <https://www.linkedin.com/in/joaomarcoslandi/> |
+| 🎨 **Behance** | <https://www.behance.net/joaomarcoslandi> |
+| 🐙 **GitHub** | <https://github.com/joaomarcoslandi> |
+| ✉️ **Email** | <mailto:contact@marcoslandi.com> |
+
+---
+
+<img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFqa3hlc2E1cWM2d2IxOHNndHQ0dmFnNnJvYXVzdjFmd2xldXAydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif"/>
