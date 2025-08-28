@@ -3,7 +3,7 @@
 <h1>Hi, I’m Marcos Landi 👋</h1>
 
 <p>
-  <em>Full‑Stack & Data Engineer • Remote Friendly • Based in Franca – BR</em>
+  <em>Full‑Stack & Data Engineer • Remote Friendly • Based in São Paulo – BR</em>
 </p>
 <img width="100%" alt="GitHub Banner" src="https://github.com/user-attachments/assets/726c735e-43a7-4a48-8294-7e98aaf961b1" />
 
