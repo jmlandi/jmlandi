@@ -11,7 +11,7 @@
 
 | Back‑End | Front‑End | Data & Cloud | DevOps |
 |----------|-----------|--------------|--------|
-| Golang | Vue.js | SQL · PostgreSQL · BigQuery | Git · Docker · Kubernetes · CI/CD |
+| Golang | Vue.js · React · Next.js | SQL · PostgreSQL · BigQuery | Git · Docker · Kubernetes · CI/CD |
 | PHP / Laravel | TailwindCSS · CSS · Figma | GCP · AWS · Cloudflare | GitHub Actions · Argo CD |
 
 ---
